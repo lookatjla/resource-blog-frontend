@@ -1,5 +1,5 @@
 ### The Resource Blog (frontend)
-Resource is a blog that offers delicious recipes created by yours truly, as well as critiques of the hottest restaurants in Atlanta. 
+The Resource is a blog that offers delicious recipes created by yours truly, as well as critiques of the hottest restaurants in Atlanta. 
 
 ### Technologies Used
 - Angular
