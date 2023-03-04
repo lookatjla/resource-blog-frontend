@@ -24,3 +24,6 @@ Resource is a blog that offers delicious recipes created by yours truly, as well
 
 ### ERD
 ![](https://i.imgur.com/7mZ4G5o.png)
+
+### Wireframe
+![](https://i.imgur.com/XUhwa0e.png)
